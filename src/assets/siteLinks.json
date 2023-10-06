@@ -14,4 +14,9 @@
     "name": "站点监测",
     "link": "https://status.jacky.ltd/"
   }
+  {
+    "icon": "ChatGPT",
+    "name": "ChatGPT",
+    "link": "https://gpt.jacky.ltd/"
+  },
 ]
